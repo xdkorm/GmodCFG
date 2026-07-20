@@ -1,0 +1,5 @@
+"gamedepotsystem"
+{
+	"cstrike"		"1"
+	"tf"		"1"
+}
